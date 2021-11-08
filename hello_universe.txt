@@ -1,1 +1,2 @@
 This is my first attempt at trying to work on coding using the Odin Program
+This is my second practice attempt
